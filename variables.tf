@@ -3,7 +3,7 @@ variable rg_location {
 }
 
 variable aks_version {
-  default = "1.18.8"
+  default = "1.21.2"
 }
 
 variable aks_node_count {
